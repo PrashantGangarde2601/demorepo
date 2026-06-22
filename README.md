@@ -1,3 +1,3 @@
 # demorepo
 <br> 
-Auther: PRASHANT GANGARDE
+Auther: PRASHANT GANGARDE(NITK)
